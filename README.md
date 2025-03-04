@@ -1,0 +1,1 @@
+# pelatihan_linux_
